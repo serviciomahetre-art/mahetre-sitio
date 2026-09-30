@@ -1,0 +1,5 @@
+MAHETRE ERP V1.4 - Centro documental
+Incluye archivos por apartado mediante IndexedDB.
+Vista previa interna: imágenes, PDF, TXT/CSV y XLSX (primera hoja, navegador compatible).
+Cada archivo registra apartado, descripción, revisión, usuario y fecha.
+Los archivos quedan almacenados localmente en el navegador/equipo usado para esta prueba.
